@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    
+    
+}
+body> div{
+    padding: 10px;
+    border: 1px solid black;
+    text-transform: capitalize;
+    text-shadow: 10px 10px blue;
+    background-color: chocolate;
+    box-shadow: 20px 20px gray;
+}

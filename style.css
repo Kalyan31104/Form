@@ -1,0 +1,8 @@
+body{
+    background-image: url("batman.jpg");
+    background-size: cover;
+    color: chartreuse;
+}
+a{
+    color: azure;
+}
